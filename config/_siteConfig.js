@@ -52,7 +52,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-catalystcoder-io' // 'blog-danielkelly-io'
+    siteShortName: 'catalystcoder' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
@@ -65,7 +65,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://ieee-asiet.us19.list-manage.com/subscribe/post?u=7523ba0a4df306b3360d6f22b&amp;id=b816c2965f'
     },
     custom: {
       on: false,
