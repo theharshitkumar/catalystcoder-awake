@@ -12,13 +12,27 @@
           <p>
             <strong>
               Catalyst Coder is a group of people came together to spread the knowledge they have to the society.
-              
-              Page is still under construction 
             </strong>
           </p>
         </div>
 
-        
+        <div >
+          <div>
+            <article >
+              
+              
+            </article>
+          </div>
+          <div >
+            <article>
+              
+            </article>
+          </div>
+          <div >
+            <article>
+              
+            </article>
+          </div>
         </div>
       </template>
 
