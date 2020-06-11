@@ -17,8 +17,8 @@
 			<br>
 			<br>
 			<subtitle>
-			The purpose behind the foundation of the group <code>Catalyst Coder</code> was to share knowledge<br>
-			which we learn here with the others for free. So the people don't have to face the problems<br> which we faced while learning the same thing<br>
+			The purpose behind the foundation of the group <code>Catalyst Coder</code> was to share knowledge which<br>
+			we learn here with the others for free. So the people don't have to face the problems<br> which we faced while learning the same thing<br>
 			<h4>#togetherwelearn</h4>
 			<h4>#togetherwegrow</h4>
 			<br>
