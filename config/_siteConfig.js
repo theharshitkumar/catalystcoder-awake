@@ -15,9 +15,13 @@ export default {
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: process.env.GOOGLE_ANALYTICS_ID
+    id: process.env.UA-168801679-1
   },
   mainMenu: [
+  {
+      name: 'Categories',
+      link: '/categories'
+    },
     {
       name: 'About',
       link: '/about'
@@ -26,10 +30,7 @@ export default {
       name: 'Contact',
       link: '/contact'
     },
-    {
-      name: 'Categories',
-      link: '/categories'
-    },
+    
     
   ],
   hero: {
@@ -65,7 +66,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://ieee-asiet.us19.list-manage.com/subscribe/post?u=7523ba0a4df306b3360d6f22b&amp;id=b816c2965f'
+        'https://app.us19.list-manage.com/subscribe/post?u=7523ba0a4df306b3360d6f22b&amp;id=b816c2965f'
     },
     custom: {
       on: false,

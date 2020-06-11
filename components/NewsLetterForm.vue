@@ -16,7 +16,6 @@
             placeholder="Email"
           />
           <span class="icon is-small is-left">
-            <font-awesome-icon icon="envelope" />
             <i class="fas fa-envelope"></i>
           </span>
         </p>

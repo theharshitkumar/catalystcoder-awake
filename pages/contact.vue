@@ -27,17 +27,22 @@
               <br />
               <div class="content">
                 <p>
-                  Hi I am Harshit
-				  A tech and Web Development enthusit
-				  This is my blog
-				  Feel free to surf through
+                  Hi I am Harshit.<br>
+				  A tech enthusit<br> 
+				  and a Web Developer.<br>
+				  I am still on learning process<br>
+				  and exploring new things daily<br>
+				  I made this blog for the sole purpose to share my knowledge with the world for free<br>
+				  Feel free to surf to my blog and my YouTube channel<br>
                 </p>
               </div>
             </article>
           </div>
           <div class="tile is-parent is-8">
             <article class="tile is-child box">
-              <contact-form />
+			<div class="contact">
+              <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdp4hoIvqfk6L0UzeUU9D8-i3Pt2PyRxvD1FlkYNhL-yoiATQ/viewform?embedded=true" width="640" height="905" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+			  </div>
             </article>
           </div>
         </div>
@@ -63,3 +68,27 @@ export default {
   components: { ContactForm }
 }
 </script>
+<style>
+.contact iframe{
+height:905px!important;
+
+}
+.freebirdSolidBackground{
+background-color:white!important;
+}
+.m2 .freebirdFormviewerViewNavigationPasswordWarning{
+display:none!important;
+}
+
+.freebirdDisclaimerColor, .freebirdDisclaimerColor a{
+display:none!important;
+}
+.freebirdFormviewerViewFooterEmbeddedBackground {
+    display: none!important;
+}
+.freebirdSolidBackground {
+     background-color: white!important;
+    color: rgba(255, 255, 255, 1);
+}
+
+</style>
