@@ -28,12 +28,12 @@
               <div class="content">
                 <p>
                   Hi I am Harshit.<br>
-				  A tech enthusit<br> 
+				  A tech enthusiast<br> 
 				  and a Web Developer.<br>
 				  I am still on learning process<br>
 				  and exploring new things daily<br>
 				  I made this blog for the sole purpose to share my knowledge with the world for free<br>
-				  Feel free to surf to my blog and my YouTube channel<br>
+				  Feel free to surf on my blog and YouTube channel<br>
                 </p>
               </div>
             </article>
