@@ -15,11 +15,9 @@ The icons used in this video are  **fontawesome icons**.
 
 ![Awesome Social media icon design  using HTML & CSS only and with Hover effect](/uploads/social-media-icon-original.png "Awesome Social media icon design  using HTML & CSS only and with Hover effect")
 
-
-
 # **Youtube link**
 
-**If you havent saw the video, watch it here** : - https://youtu.be/Y5TR-Jkdzj0
+**If you haven't see the video, watch it here** : - https://youtu.be/Y5TR-Jkdzj0
 
 ## Steps to use Fontawesome Icons
 
