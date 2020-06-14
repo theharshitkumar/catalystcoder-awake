@@ -5,38 +5,37 @@ category:
   - HTML & CSS design
 author: Harshit Kumar
 date: 2020-06-14T16:56:07.530Z
-featureImage: /uploads/social-media-icon.png
+featureImage: /uploads/social-media-icon-original.png
 ---
 Hi everyone ,
 
-In this tutorial , I have made **Social Media Icon design** just by using **HTML** and **CSS** and with **Hover effect**.
+In this tutorial, I made **Social Media Icon design** just by using **HTML** and **CSS** and with **Hover effect**.
 
 The icons used in this video are  **fontawesome icons**.
+
+![Awesome Social media icon design  using HTML & CSS only and with Hover effect](/uploads/social-media-icon-original.png "Awesome Social media icon design  using HTML & CSS only and with Hover effect")
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y5TR-Jkdzj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ## Steps to use Fontawesome Icons
 
  For using any free **Fontawesome icons** follow the steps below :-
 
 1. Create your accont in <https://fontawesome.com/> . If  you already have accont you  can skip this step.
-2.  After making the account, Go to your kits and config your kit.
-3.  Then you just need to copy the kit to your Head tag and thats it you are all done .
+2. After making the account, Go to your kits and config your kit.
+3. Then you just need to copy the kit to your Head tag and thats it you are all done .
 
    Now you can start using the Fontawesome Icons for free.
 
-
-
 I made this design using HTML and CSS only. So it won't be any difficult for any people to use this design in thier website.The icon also have nice hover animation too. if you want to change the color of the icon or the effect to match your website design. You can easily change that too. Just change the color in the CSS.
-
-
 
 # Source Code
 
 Following are the full HTML and CSS codes which I used in the Video.
 
-HTML
+**HTML**
 
 ```html
-
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -59,7 +58,7 @@ HTML
 </html>
 ```
 
-CSS
+**CSS**
 
 ```css
 body{
@@ -103,7 +102,7 @@ body{
 
 This is minified CSS code which you can directly use in your website.
 
-Note:- Make sure to copy and paste the HTML code in a div element.
+**Note**:- Make sure to copy and paste the minified HTML code in a div element.
 
 **Minified HTML**
 
@@ -120,7 +119,6 @@ Note:- Make sure to copy and paste the HTML code in a div element.
 **Minified CSS**
 
 ```
-
 .social{
   position: absolute;
   text-align:center;
@@ -150,8 +148,6 @@ Note:- Make sure to copy and paste the HTML code in a div element.
 }
 ```
 
+**Note**:- If minified version doesn't work try and use the full version.
 
-
-Note:- If minified version doesn't work try and use the full version.
-
-Note:- This code is royalty/copyright free for personal as well as for non-profit use. Commercial use is not allowed.
+**Note:- This code is royalty/copyright free for personal as well as for non-profit use. Commercial use is not allowed.**
