@@ -17,7 +17,7 @@ The icons used in this video are  **fontawesome icons**.
 
 # **Youtube link**
 
-**If you haven't see the video, watch it here** : - https://youtu.be/Y5TR-Jkdzj0
+**If you haven't seen the video, watch it here** : - https://youtu.be/Y5TR-Jkdzj0
 
 ## Steps to use Fontawesome Icons
 
