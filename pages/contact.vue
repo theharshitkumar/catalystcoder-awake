@@ -34,6 +34,7 @@
 				  and exploring new things daily<br>
 				  I made this blog for the sole purpose to share my knowledge with the world for free<br>
 				  Feel free to surf on my blog and YouTube channel<br>
+				  
                 </p>
               </div>
             </article>
@@ -42,6 +43,7 @@
             <article class="tile is-child box">
 			<div class="contact">
               <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdp4hoIvqfk6L0UzeUU9D8-i3Pt2PyRxvD1FlkYNhL-yoiATQ/viewform?embedded=true" width="640" height="905" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+			  <p> Please give me 4-5 business days to get back to you </p>
 			  </div>
             </article>
           </div>
