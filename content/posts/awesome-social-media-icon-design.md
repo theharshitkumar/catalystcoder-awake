@@ -15,13 +15,11 @@ The icons used in this video are  **fontawesome icons**.
 
 ![Awesome Social media icon design  using HTML & CSS only and with Hover effect](/uploads/social-media-icon-original.png "Awesome Social media icon design  using HTML & CSS only and with Hover effect")
 
-<div class="embed-responsive embed-responsive-16by9 z-depth-1">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Y5TR-Jkdzj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-</div>
 
 
+# **Youtube link**
 
-
+**If you havent saw the video, watch it here** : - https://youtu.be/Y5TR-Jkdzj0
 
 ## Steps to use Fontawesome Icons
 
