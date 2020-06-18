@@ -6,22 +6,10 @@
     <a href="https://www.linkedin.com/in/harshitkumar197/"> Made with <span style="color: #e25555;">&#9829;</span> By HK </a>
 	<div class="social">
 	<h2>Follow Us</h2>
-		<a href="https://www.youtube.com/channel/UCOyYK29kVXQvknRwdW_3-YQ" target="_blank"><i class="fab fa-youtube" data-v-0efc0558="" aria-hidden="true" style="
-    padding: 0px 20px 0px 20px;
-    font-size: 35px;
-"></i></a>
-<a href="https://www.facebook.com/catalystcoder/" target="_blank"><i class="fab fa-facebook-f" data-v-0efc0558="" aria-hidden="true" style="
-    padding: 0px 20px 0px 20px;
-    font-size: 35px;
-"></i></a>
-	<a href="https://www.instagram.com/catalystcoder/" target="_blank"><i class="fab fa-instagram" data-v-0efc0558="" aria-hidden="true" style="
-    padding: 0px 20px 0px 20px;
-    font-size: 35px;
-"></i></a>
-	<a href="https://twitter.com/catalyst_coder" target="_blank"><i class="fab fa-twitter" data-v-0efc0558="" aria-hidden="true" style="
-    padding: 0px 20px 0px 20px;
-    font-size: 35px;
-"></i></a>
+	<a href="https://www.youtube.com/channel/UCOyYK29kVXQvknRwdW_3-YQ" target="_blank"><i class="fab fa-youtube" data-v-0efc0558="" aria-hidden="true"></i></a>
+	<a href="https://www.facebook.com/catalystcoder/" target="_blank"><i class="fab fa-facebook-f" data-v-0efc0558="" aria-hidden="true"></i></a>
+	<a href="https://www.instagram.com/catalystcoder/" target="_blank"><i class="fab fa-instagram" data-v-0efc0558="" aria-hidden="true"></i></a>
+	<a href="https://twitter.com/catalyst_coder" target="_blank"><i class="fab fa-twitter" data-v-0efc0558="" aria-hidden="true"></i></a>
 	</div>
   </footer>
 </template>
