@@ -6,6 +6,10 @@
     padding: 0px 20px 0px 10px;
     font-size: 35px;
 "></i></a>
+<a href="https://www.facebook.com/catalystcoder/" target="_blank"><i class="fab fa-facebook-f" data-v-0efc0558="" aria-hidden="true" style="
+    padding: 0px 20px 0px 10px;
+    font-size: 35px;
+"></i></a>
 	<a href="https://www.instagram.com/catalystcoder/" target="_blank"><i class="fab fa-instagram" data-v-0efc0558="" aria-hidden="true" style="
     padding: 0px 20px 0px 10px;
     font-size: 35px;
