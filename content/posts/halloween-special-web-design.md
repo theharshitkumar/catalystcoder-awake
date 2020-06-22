@@ -11,19 +11,11 @@ featureImage: /uploads/halloween-cat-animation.png
 
 Hi guys, Since Halloween is in few months. So I made this a Halloween special web design, so everyone can use this thier Halloween special themed website. In this web design , I am generating a Cat and moon and some clouds just by using html and css. Since it is purely generated in HTML and CSS it doesn't decrease the load time of the website. Comment below and tell me your thoughts on this video.
 
-
-
 # **Youtube Video link**
 
-If you guys haven't **watch my video** or the **live demo of this desgin**, Simply click on this link and **watch the video** :- <https://youtu.be/YEN1mrZrrV8>
+If you guys haven't **watch my video** or the **live demo of this desgin**, Simply click on this link and **watch the video** :- [](https://youtu.be/YEN1mrZrrV8)<https://youtu.be/Zt1A9Kst8tQ>
 
 ![Halloween cat animation using html and css only](/uploads/halloween-cat-animation.png "Halloween cat animation using html and css only")
-
-
-
-
-
-
 
 # **Source Code**
 
@@ -59,7 +51,6 @@ The coding is done in HTML5 and CSS3 which is widely used this days in all the w
 </div>
 </body>
 </html>
-
 ```
 
 **CSS**
@@ -186,12 +177,7 @@ div{
   50% {margin-left:100px;}
   100% {margin-left:0;}
 }
-
 ```
-
-
-
-
 
 **Thank you for reading.** 
 
