@@ -17,11 +17,11 @@ So, today we are gonna make a Hamburger menu just by using HTML & CSS.
 
 If you are new and wanna watch my youtube video on this topic ( I leave some explanation text in between the video, so make sure you watch the full video), Hit the link below or if you are comming form the Youtube to get the source code . Well in that case scroll below.
 
+![Hamburger menu  | Navigation Bar in HTML & CSS only (2020)](/uploads/hamburger-menu-design.png "Hamburger menu  | Navigation Bar in HTML & CSS only (2020)")
+
 # **Youtube Link**
 
 If you are new here, Please go to my channel on Youtube and hit that like and subscribe  button and also watch the whole video (the music is lit though) - https://youtu.be/FDovd3izofo
-
-
 
 # **Source Code**
 
@@ -72,7 +72,6 @@ If you are new here, Please go to my channel on Youtube and hit that like and su
 
   </body>
 </html>
-
 ```
 
 **CSS**
@@ -178,7 +177,6 @@ body{ background-color: #005999;}
   -webkit-transform:translate3d(-114px,11px,0);
           transform:translate3d(-114px,11px,0);
 }
-
 ```
 
 Note this awsome design doesn't require any Javascript files. So you can easily copy and paste the code in your website.
