@@ -12,9 +12,18 @@
       </span>
     </site-hero>
     <main-section :one-column-constrained="true">
+	
       <template v-slot:default>
+	  <Adsense
+    data-ad-client="ca-pub-8385183705194513"
+    data-ad-slot="1234567890">
+</Adsense>
         <div class="post-wrapper">
           <markdown :markdown="$store.state.content" />
+		  <InArticleAdsense
+    data-ad-client="ca-pub-8385183705194513"
+    data-ad-slot="1234567890">
+</InArticleAdsense>
           <div class="other-posts">
             <h6 class="subtitle is-size-4">
               Related Posts
