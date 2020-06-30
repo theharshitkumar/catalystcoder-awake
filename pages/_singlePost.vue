@@ -20,6 +20,16 @@
 </Adsense>
         <div class="post-wrapper">
           <markdown :markdown="$store.state.content" />
+		  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8385183705194513"
+     data-ad-slot="8702221259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 		  <InArticleAdsense
     data-ad-client="ca-pub-8385183705194513"
     data-ad-slot="1234567890">
